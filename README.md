@@ -1,4 +1,4 @@
-```markdown
+
 # A Review of Indic Language LLM Benchmarks: Comparing with Industry-Trusted Benchmarks
 
 This repository contains a literature review on the current state of benchmarks for evaluating Indic Large Language Models (LLMs). It compares existing Indic benchmarks to established industry-trusted benchmarks and suggests potential directions for creating a new, more comprehensive benchmark for Indic LLMs.
